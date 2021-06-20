@@ -1,2 +1,2 @@
-# koshio-js
+# koshio.io
 test deploy
